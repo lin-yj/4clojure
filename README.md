@@ -1,2 +1,3 @@
 # 4clojure
-Solutions to 4clojure problems.
+
+Just another newcomer trying out Git and clojure.
