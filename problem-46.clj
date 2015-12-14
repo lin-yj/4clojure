@@ -1,0 +1,1 @@
+partial (fn [func in2 in1] (func in1 in2))

@@ -1,0 +1,1 @@
+#(reduce concat (map (fn [x] (vec (take %2 (repeat x)))) %1))

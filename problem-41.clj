@@ -1,0 +1,1 @@
+(fn [x,y] (remove (fn [z] (zero? (mod (+ 1 (.indexOf x z)) y))) x))

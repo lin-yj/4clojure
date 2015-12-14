@@ -1,0 +1,1 @@
+#(reduce concat (map (fn [x] [x x]) %))

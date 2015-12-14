@@ -1,0 +1,1 @@
+(fn [x,y] (concat (drop (mod x (count y)) y) (take (mod x (count y)) y)))

@@ -1,0 +1,1 @@
+#(seq (drop 1 (mapcat vector (repeat %1) %2)))
